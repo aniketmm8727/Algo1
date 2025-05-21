@@ -5,14 +5,14 @@
     "totp_secret": "C432GXXZZCZ4S273QDTU7FZ65WQSGUKD",
     "api_key": "pyjttc3uafwlge28",
     "api_secret": "anolqvan28hpo3huf2z3d2c9qe28fwl5"
-  },
+   },
   "api": {
     "provider": "shoonya",
     "creds": {
-      "user_id": "FN110243",
-      "api_key": "55a59ce60716a7d681d1c774a5424729",
-      "password": "Shan@@1234",
-      "totp_secret": "V23WXJSQKHTQ7V65IJKG24BN2ZV5EAP2"
+      "user_id": "FN124302",
+      "api_key": "fbb3dd957ebcc57d2ad42d0306df8ab9",
+      "password": "Giri@@123",
+      "totp_secret": "MRX37X4KGM2QIT7337EN4D57747FRPKL"
     }
   },
   "strategy": {
