@@ -9,10 +9,10 @@
   "api": {
     "provider": "shoonya",
     "creds": {
-      "user_id": "FN112899",
-      "api_key": "aff71287f2faaaf125c28612c52814f8",
-      "password": "Vanitha@143",
-      "totp_secret": "745X5G7H447N774K6B4U2X3S5X6KN52Z"
+      "user_id": "FN110243",
+      "api_key": "55a59ce60716a7d681d1c774a5424729",
+      "password": "Shan@@1234",
+      "totp_secret": "V23WXJSQKHTQ7V65IJKG24BN2ZV5EAP2"
     }
   },
   "strategy": {
